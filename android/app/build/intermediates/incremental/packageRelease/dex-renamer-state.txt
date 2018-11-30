@@ -1,0 +1,4 @@
+#Wed Nov 22 20:50:04 IST 2017
+base.0=/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

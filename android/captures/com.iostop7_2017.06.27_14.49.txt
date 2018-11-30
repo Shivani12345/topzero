@@ -1,0 +1,60 @@
+Activity Resolver Table:
+  Schemes:
+      fb908049482667226:
+        2f91bb9c com.iostop7/com.facebook.CustomTabActivity filter 3071b363
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "fb908049482667226"
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        1ede99a5 com.iostop7/.MainActivity filter 258a4d92
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  com.iostop7/com.facebook.internal.FacebookInitProvider:
+    Provider{3235e17a com.iostop7/com.facebook.internal.FacebookInitProvider}
+
+ContentProvider Authorities:
+  [com.iostop7.FacebookInitProvider]:
+    Provider{3235e17a com.iostop7/com.facebook.internal.FacebookInitProvider}
+      applicationInfo=ApplicationInfo{2a005d2b com.iostop7}
+
+Key Set Manager:
+  [com.iostop7]
+      Signing KeySets: 5503
+
+Packages:
+  Package [com.iostop7] (38ccf588):
+    userId=10889 gids=[3003, 1028, 1015]
+    pkg=Package{11442b21 com.iostop7}
+    codePath=/data/app/com.iostop7-2
+    resourcePath=/data/app/com.iostop7-2
+    legacyNativeLibraryDir=/data/app/com.iostop7-2/lib
+    primaryCpuAbi=x86
+    secondaryCpuAbi=null
+    versionCode=1 targetSdk=23
+    versionName=1.0
+    applicationInfo=ApplicationInfo{2a005d2b com.iostop7}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/data/com.iostop7
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2017-06-27 14:35:14
+    firstInstallTime=2017-06-27 14:28:58
+    lastUpdateTime=2017-06-27 14:35:18
+    signatures=PackageSignatures{1bb09b46 [37a5a107]}
+    permissionsFixed=true haveGids=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0:  installed=true hidden=false stopped=false notLaunched=false enabled=0
+    grantedPermissions:
+      android.permission.SYSTEM_ALERT_WINDOW
+      android.permission.READ_PHONE_STATE
+      android.permission.INTERNET
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.ACCESS_MOCK_LOCATION

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/mac_mini9/.android/build-cache/c2ed547a3c037c3a2db393166fae2f389cbce0ef/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/mac_mini9/.android/build-cache/c2ed547a3c037c3a2db393166fae2f389cbce0ef/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/mac_mini9/.android/build-cache/c2ed547a3c037c3a2db393166fae2f389cbce0ef/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/mac_mini9/.android/build-cache/c2ed547a3c037c3a2db393166fae2f389cbce0ef/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

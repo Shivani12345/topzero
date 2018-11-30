@@ -1,0 +1,72 @@
+Make 'Place auto complete' request to get the autocomplete data
+Make 'Place details' request to get the details about a perticular place
+
+
+1. Place autocomplete
+	Base : https://maps.googleapis.com/maps/api/place/autocomplete/output?parameters
+	or : https://maps.googleapis.com/maps/api/place/autocomplete/
+
+	the 'output' will be json
+
+	THUS, Base : https://maps.googleapis.com/maps/api/place/autocomplete/json?parameters
+
+	Required params
+		1. input
+		2. key
+
+	https://maps.googleapis.com/maps/api/place/autocomplete/json?input=abc&location=25.768745,-80.202438&radius=10&&types=establishment&key=AIzaSyBE1gCW9Ai1LJXcEfHal9mu8DYK8QycoCo
+
+
+	From the response received, you need
+	1. place_id : To call place detail api
+	2. status : to check whether the call is suceesful
+
+
+
+2. Place details
+
+	Base : https://maps.googleapis.com/maps/api/place/details/json
+
+	https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJozUTuFS32YgRPMkRy7lA8NY&extensions=review_summary&key=AIzaSyBE1gCW9Ai1LJXcEfHal9mu8DYK8QycoCo
+
+	From the response, you need	
+	1. geometry
+		From geometry, you need location
+			From location, lat and lng
+	2. icon
+	3. formatted_phone_number (?)
+	4. international_phone_number (?)
+	5. name
+	6. price_level
+	7. types (Array. From that, you will be able to knwo wheter it is a bar restaurant  ) (????)
+
+
+
+3. Nearby search
+	Base : https://maps.googleapis.com/maps/api/place/nearbysearch/?json
+
+	params:
+		location,
+		key,
+		rankby=distance **Do not specify radius if you are doing this**
+		minprice, maxprice
+		type=restaurant or bar or night_club
+		pagetoken
+
+
+
+Details we need :
+1. Name (Google)
+2. Price Range (Google)
+3. About-Short description (Google Paid)
+4. Map location (Google)
+5. Ratings (Our backend)
+6. Reviews (Our backend)
+
+
+
+
+
+
+
+https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=CoQBdwAAAMY7Qjgx0KbYoHgwMAAoHBVENGbUC---ZGIxDV3vw9lze9IDrJ59BY14KVgY38h6e7Aqy_Xn5V78oxVxuZR7D5yWByY_JEwe0xa9qnlWPu7hhjZJrwtEwAnvNB0fH1-1QN0zOsX7IAOJnKJC38CyNL487BEtTtVnV4FbYHWkxGFHEhCrQ333LpkurG5C1idAm7eZGhSgcMW364L-E2qWPHVrCjvkHpbKaA&key=AIzaSyBE1gCW9Ai1LJXcEfHal9mu8DYK8QycoCo

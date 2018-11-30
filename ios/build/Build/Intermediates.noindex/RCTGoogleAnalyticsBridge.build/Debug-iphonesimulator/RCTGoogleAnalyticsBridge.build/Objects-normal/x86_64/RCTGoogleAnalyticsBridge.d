@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/RCTGoogleAnalyticsBridge/RCTGoogleAnalyticsBridge.m \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/RCTGoogleAnalyticsBridge/RCTGoogleAnalyticsBridge.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAI.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAILogger.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAITrackedViewController.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAITracker.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIFields.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIDictionaryBuilder.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIEcommerceProduct.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIEcommerceProductAction.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIEcommercePromotion.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native-google-analytics-bridge/ios/RCTGoogleAnalyticsBridge/google-analytics-lib/GAIEcommerceFields.h

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mac_mini9/.android/build-cache/b112598fe8b21f29592a7656514fd14ce4c2e4bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="543cbd7526b5bf05a5a1be344c53b1994f22a04f">
+        <dex dex="/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/pre-dexed/debug/classes_de1e0c7a135657f05af39c249fa9aae04ad24d7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_mini9/WebstormProjects/IOSTop7/node_modules/react-native-fbsdk/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="71519d58111acda15d5cb2be4d54674f96cb7ba9">
+        <dex dex="/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/pre-dexed/release/classes_b5615ff5cebdceae16f521bd49116caa4cf918d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_mini9/WebstormProjects/IOSTop7/node_modules/react-native-google-analytics-bridge/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ea2dbc6f1792e30746213b7ebdfaae0a2cc83eb">
+        <dex dex="/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/pre-dexed/release/classes_f4abfa8f16106d6e1a591f13a4c62221d60832a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_mini9/.android/build-cache/e05f834c81c28ecafff48c1c591497417d07c220/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79a435f1c45ac04593a5134d70da983305584e90">
+        <dex dex="/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/pre-dexed/debug/classes_6978ac5b395e527188333afcbebd2cfbcbc15379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_mini9/WebstormProjects/IOSTop7/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cfe651e3dc0896e6e084eb8ab986e16aa0cf47c0">
+        <dex dex="/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/pre-dexed/release/classes_78db7791442380fb9fc3f08fcbad5fec9731d697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_mini9/.android/build-cache/6b988fe4d3d4982597b3be3ba0149fa50a218181/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/pre-dexed/debug/classes_7a384d83274fff9be96b193ee64d0f5ddf6aeaa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_mini9/.android/build-cache/9f204969a9ac0bf07dd42ee0ee03155e996f0cb3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/pre-dexed/debug/classes_963ec0711e3d7b8986e35fa4589e30620eb50a66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_mini9/.android/build-cache/3b2e285ed0c205e609d58b82393f5edd576a05ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/pre-dexed/debug/classes_be4cb65dcbca2e4bfc04de553dd93701268ce846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_mini9/WebstormProjects/IOSTop7/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/pre-dexed/debug/classes_fb47b4c81dfc130a825cff6000f34a17080f469c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_mini9/.android/build-cache/94711f55cb2e910d013269ce0658bf236d527c39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4ff475aad14939684efd3227ec19cd49e90888f">
+        <dex dex="/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/pre-dexed/debug/classes_ad74b42f96fd719492fd8012c10ee0666cbbc717.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Base/RCTJSCErrorHandling.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/Shared/Jenkins/Desktop/RahulRanva/Work/top7reactnative/node_modules/react-native/React/Modules/RCTDevMenu.h

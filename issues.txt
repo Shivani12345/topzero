@@ -1,0 +1,12 @@
+1. Map Marker can not have button:
+	https://github.com/airbnb/react-native-maps/issues/226
+
+2. Autocomplete will show every place. Can not filter by type
+	https://issuetracker.google.com/issues/35820774
+
+3. Custom Marker View Callout Showing Under Marker View
+    https://github.com/airbnb/react-native-maps/issues/662
+    https://github.com/airbnb/react-native-maps/pull/806
+
+
+4. The callout can not be pointy ( Left most or right most marker )

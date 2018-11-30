@@ -1,0 +1,6 @@
+react-native-fbsdk
+react-native-maps@0.13.0
+react-native-side-menu
+react-native-scrollable-tab-view
+react-native-scrollable-tab-view-mask-bar
+react-native-popup-dialog

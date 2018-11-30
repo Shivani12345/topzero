@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/mac_mini9/.android/build-cache/c2ed547a3c037c3a2db393166fae2f389cbce0ef/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/mac_mini9/.android/build-cache/c2ed547a3c037c3a2db393166fae2f389cbce0ef/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/mac_mini9/.android/build-cache/c2ed547a3c037c3a2db393166fae2f389cbce0ef/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/mac_mini9/.android/build-cache/c2ed547a3c037c3a2db393166fae2f389cbce0ef/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/mac_mini9/.android/build-cache/c2ed547a3c037c3a2db393166fae2f389cbce0ef/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/mac_mini9/.android/build-cache/c2ed547a3c037c3a2db393166fae2f389cbce0ef/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/mac_mini9/.android/build-cache/c2ed547a3c037c3a2db393166fae2f389cbce0ef/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/mac_mini9/.android/build-cache/c2ed547a3c037c3a2db393166fae2f389cbce0ef/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/mac_mini9/.android/build-cache/c2ed547a3c037c3a2db393166fae2f389cbce0ef/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/mac_mini9/WebstormProjects/IOSTop7/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/mac_mini9/.android/build-cache/c2ed547a3c037c3a2db393166fae2f389cbce0ef/output/res/color-v23/abc_tint_switch_track.xml"
+    }
+]
